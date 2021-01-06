@@ -123,7 +123,7 @@ do {
 	console.log(counter);
 	counter++;
 } while {
-	counter < 90;
+	counter < 15;
 }
 
 
