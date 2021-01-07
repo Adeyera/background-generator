@@ -64,7 +64,7 @@ Class and Methods
 
 // const Wizard1 = new Wizard('Sheely', 'Healer');
 // const Wizard2 = new Wizard('Shawn', 'Dark Magic');
-ES7
+
 // const pets= ['cat', 'dog', 'bat'];
 // pets.includes("d")
 // const square = (x) => x**5
