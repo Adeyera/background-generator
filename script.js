@@ -90,7 +90,7 @@ Object.keys(obj).map()
 const number = "45";
 const divisor = "5";
 
-console.log(number % 5);
+console.log(number % divisor);
 
 const flattened = [[0,1], [2,3] ,[4,5]].reduce(
 	(accumulator,array) => {
